@@ -28,11 +28,7 @@ A clean and intuitive web app that removes **salt-and-pepper noise** from images
 
 ---
 
-## 🖼 Sample Results
 
-| Noisy Input | U-Net Denoised | Ground Truth |
-|-------------|----------------|---------------|
-| ![noisy](assets/noisy_example.jpg) | ![denoised](assets/denoised_example.jpg) | ![gt](assets/groundtruth_example.jpg) |
 
 
 
